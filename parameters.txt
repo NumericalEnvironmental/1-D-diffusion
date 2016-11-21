@@ -1,0 +1,10 @@
+diffusion_coeff	0.7
+dimensionless_Henrys_const	0.8
+Koc	0.1
+column_length 	10.0
+column_xsect_area	1.0
+boundary_conc	1.0
+porosity	0.25
+saturation	0.3
+bulk_density	1.6
+organic_C_fraction	0.001

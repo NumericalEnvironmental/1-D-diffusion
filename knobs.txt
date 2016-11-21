@@ -1,0 +1,10 @@
+gamma	0.55
+dt_init	1.00E-06
+dt_min	1.00E-08
+dt_max	0.1
+dC_max	0.05
+dt_decrease	0.7
+dt_increase	1.3
+
+
+
