@@ -4,6 +4,7 @@ This script, written in julia, simulates diffusion of a gaseous constituent thro
 Two text input files are included:
 
 parameters.txt --> characteristics of the 1-D model domain as well as the gaseous species
+
 knobs.txt --> miscellaneous constraints in the numerical solver
 
 More info can be found here: https://numericalenvironmental.wordpress.com/2016/11/23/two-phase-reactive-transport-model-development-with-julia-part-1-a-simple-1-d-diffusion-model/
